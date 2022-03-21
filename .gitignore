@@ -1,0 +1,7 @@
+data/
+out/
+
+lc0-env/
+
+.ipynb_checkpoints/
+.DS_Store
